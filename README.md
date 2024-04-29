@@ -1,5 +1,5 @@
-## Xenos : Dataflow-Centric Optimization to  Accelerate Model Inference on Edge Devices
-111
+## Xenos : Dataflow-Centric Optimization to Accelerate Model Inference on Edge Devices
+Xenos is the first inference framework focusing on dataflow-centric optimization whereas the other inference frameworks mainly adopt operator-centric optimization. It accelerates edge-based devices inference through dataflow optimization and flexible model partition.
 ## Paper and Presentation
 Xenos : Dataflow-Centric Optimization to  Accelerate Model Inference on Edge Devices(DASFAA'23)
 
@@ -23,7 +23,7 @@ git clone https://github.com/Happyrhzhang/Xenos.git
 
 ## File Structure
 The core part includes two modules.
-- Cost Model : Generate deployment plan 
+- Vertical: Operator Linking
 - Hardware Test : On-board testing
 
 ## Install & Dependencies
@@ -77,4 +77,4 @@ python ONNXtoIR.py --onnxname "name.onnx"
 
 ## Future Plan
 - Support deployment applications of larger scale nodes.
-- Extending FlexPie to more edge hardware.
+- Extending Xenos to more edge hardware.
