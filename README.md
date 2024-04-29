@@ -50,7 +50,7 @@ python ONNXtoIR.py --onnxname "name.onnx"
 ```
 - S2: On the PC Compiler (VS), compile and run:
 ```
-./FlexPie/src/dp
+./Xenos/Python/VO
 ```
 ### Test2 : Single-Xenos on-board testing 
 - S1: Load Project
