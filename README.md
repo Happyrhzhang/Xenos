@@ -1,12 +1,11 @@
 ## Xenos : Dataflow-Centric Optimization to  Accelerate Model Inference on Edge Devices
 111
 ## Paper and Presentation
+Xenos : Dataflow-Centric Optimization to  Accelerate Model Inference on Edge Devices(DASFAA'23)
+
+Towards A High-Performance Dataflow-Centric Framework for Edge-Based Inference(Major Revision)
 
 If you find our work helpful to your research or project, we would very appreciate it if you could add a star to our repo and/or cite our papers. The bibs for the papers are as below.
-```
-git clone https://github.com/Happyrhzhang/Xenos.git
-```
-## Clone Project
 ```
 @inproceedings{zhang2023xenos,
   title={Xenos: Dataflow-Centric Optimization to Accelerate Model Inference on Edge Devices},
@@ -16,6 +15,10 @@ git clone https://github.com/Happyrhzhang/Xenos.git
   year={2023},
   organization={Springer}
 }
+```
+## Clone Project
+```
+git clone https://github.com/Happyrhzhang/Xenos.git
 ```
 
 ## File Structure
